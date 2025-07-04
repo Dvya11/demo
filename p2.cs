@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace demo
 {
-    internal class p2
+    internal class p2s
     {
         static void Main(string[] args)
         {
             // This is a simple C# program that prints "Hello, World!" to the console.
             Console.WriteLine("Hello, World!");
+            //sconol
             Console.Read();
         }
     }
